@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.DejaVu"
        name="[COLOR gold]DejaVu[/COLOR]"
-       version="1.0.4"
+       version="1.0.6"
        provider-name="The Wombles">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
