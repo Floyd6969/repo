@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.DejaVu"
        name="[COLOR gold]DejaVu[/COLOR]"
-       version="1.2.0"
+       version="1.2.1"
        provider-name="The Wombles">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -19,7 +19,7 @@
     <import addon="script.module.simplejson" /> 
     <import addon="script.common.plugin.cache" version="2.5.2"/>
     <import addon="script.module.metahandler" version="2.5.1"/>
-    <import addon="script.module.python.koding.aio" version="0.9.6.6"/>
+    <import addon="script.module.python.koding.aio.alt" version="1.1"/>
     <import addon="script.module.web-pdb" version="1.0"/>
 
   </requires>
