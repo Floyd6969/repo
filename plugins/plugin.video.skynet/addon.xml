@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.skynet" version="1.0.4" name="[COLORwhite]SkyNet[/COLOR]" provider-name="T 1000">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0" />
+		<import addon="script.module.skynet" />
+		<import addon="script.skynet.artwork" version="1.0.0" />
+		<import addon="script.skynet.metadata" version="1.0.0" />
+		<import addon="script.module.resolveurl" />
+		<import addon="script.module.requests" />
+		<import addon="script.module.metahandler" version="1.0.0" />
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="skynet.py">
+		<provides>video</provides>
+        <provides>audio</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">[COLORwhite]Sky Net[/COLOR]</summary>
+		<description>[COLOR white]Skynet Movies and TV. This addon does not form part of the Kodi Media Centre. Please do not seek assistance with this addon from any of the Official Kodi Support Channels. The author does not host any of the content in this addon and takes no responsibility for content found[/COLOR]</description>
+        <disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!
+</disclaimer>
+		<platform>all</platform>
+		<assets>
+			<icon>icon.jpg</icon>
+			<fanart>fanart.png</fanart>
+		</assets>
+		<news></news>
+	</extension>
+</addon>
