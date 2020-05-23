@@ -182,7 +182,7 @@
 		<news></news>
 	</extension>
 </addon>
-<addon id="plugin.video.blackhat" version="1.0.0.1" name="Black Hat" provider-name="Douche Bag">
+<addon id="plugin.video.blackhat" version="1.0.0.2" name="Black Hat" provider-name="Douche Bag">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.module.blackhat" />
