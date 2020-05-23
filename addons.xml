@@ -182,4 +182,33 @@
 		<news></news>
 	</extension>
 </addon>
+<addon id="plugin.video.bladerunner" version="1.0.0.0" name="[COLORred]Blade Runner[/COLOR]" provider-name="Man With No Name">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0" />
+		<import addon="script.module.bladerunner" />
+		<import addon="script.bladerunner.artwork" />
+		<import addon="script.bladerunner.metadata" />
+		<import addon="script.module.resolveurl" />
+		<import addon="script.module.requests" />
+<!--		<import addon="script.module.lambdascrapers" />-->
+		<import addon="script.module.openscrapers" />
+		<import addon="script.module.metahandler" version="1.0.0" />
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Blade Runner</summary>
+		<description lang="en">[B]Blade Runner[/B][CR] [B]***OpenScrapers Edition***[/B]</description>
+		<disclaimer lang="en"></disclaimer>
+		<platform>all</platform>
+		<license></license>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+    			<screenshot></screenshot>
+		</assets>
+		<news></news>
+	</extension>
+</addon>
 </addons>
