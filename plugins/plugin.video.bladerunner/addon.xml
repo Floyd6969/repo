@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.bladerunner" version="1.0.0.1" name="[COLORred]Blade Runner[/COLOR]" provider-name="Man With No Name">
+<addon id="plugin.video.bladerunner" version="1.0.0.2" name="[COLORred][I]Blade Runner[/I][/COLOR]" provider-name="Man With No Name">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.module.bladerunner" />
