@@ -155,7 +155,7 @@
     <website></website>
   </extension>
 </addon>
-<addon id="plugin.video.skynet" version="1.0.7" name="[COLORwhite]SkyNet[/COLOR]" provider-name="T 1000">
+<addon id="plugin.video.skynet" version="1.0.8" name="[COLORwhite]SkyNet[/COLOR]" provider-name="T 1000">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.module.skynet" />
