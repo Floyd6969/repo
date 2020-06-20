@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.skynet" version="1.1.0" name="[COLORwhite]SkyNet[/COLOR]" provider-name="T 1000">
+<addon id="plugin.video.skynet" version="1.1.1" name="[COLORwhite]SkyNet[/COLOR]" provider-name="T 1000">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.module.skynet" />
