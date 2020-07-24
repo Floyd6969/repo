@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.Mercury" name="[COLORlime]Mercury[/COLOR]" version="1.0.4" provider-name="Uncle Bulgaria">
+<addon id="plugin.video.Mercury" name="[COLORlime]Mercury[/COLOR]" version="1.0.5" provider-name="Uncle Bulgaria">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.universalscrapers" version="1.0.0" />
