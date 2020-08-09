@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.Free"
        name="[COLOR red]Free[/COLOR]"
-       version="1.0.0"
+       version="1.0.1"
        provider-name="Grot Shops">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -26,8 +26,8 @@
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Grot Shops</summary>
-    <description lang="en">Grot Shops</description>
+    <summary lang="en">Brought To You By The Numbers 3 And 7 And The Letter Z</summary>
+    <description lang="en">Brought To You By The Numbers 3 And 7 And The Letter Z</description>
     <platform>all</platform>
   </extension>
 </addon>
