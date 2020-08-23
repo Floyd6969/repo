@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.DejaVu"
        name="[COLOR gold]DejaVu[/COLOR]"
-       version="1.2.6"
+       version="1.2.8"
        provider-name="The Wombles">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -152,7 +152,7 @@
     <website></website>
   </extension>
 </addon>
-<addon id="plugin.video.skynet" version="1.1.2" name="[COLORwhite]SkyNet[/COLOR]" provider-name="T 1000">
+<addon id="plugin.video.skynet" version="1.1.4" name="[COLORwhite]SkyNet[/COLOR]" provider-name="T 1000">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.module.skynet" />
@@ -179,7 +179,7 @@
 		<news></news>
 	</extension>
 </addon>
-<addon id="plugin.video.bladerunner" version="1.0.0.4" name="[COLORred][I]Blade Runner[/I][/COLOR]" provider-name="Man With No Name">
+<addon id="plugin.video.bladerunner" version="1.0.0.5" name="[COLORred][I]Blade Runner[/I][/COLOR]" provider-name="Man With No Name">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.module.bladerunner" />
@@ -210,7 +210,7 @@
 </addon>
 <addon id="plugin.video.Free"
        name="[COLOR red]Free[/COLOR]"
-       version="1.0.2"
+       version="1.0.3"
        provider-name="Grot Shops">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
