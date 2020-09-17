@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.DejaVu"
        name="[COLOR gold]DejaVu[/COLOR]"
-       version="1.2.8"
+       version="1.2.9"
        provider-name="The Wombles">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -208,7 +208,7 @@
 </addon>
 <addon id="plugin.video.Free"
        name="[COLOR red]Free[/COLOR]"
-       version="1.0.4"
+       version="1.0.5"
        provider-name="Grot Shops">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
