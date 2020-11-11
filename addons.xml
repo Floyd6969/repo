@@ -240,7 +240,7 @@
 </addon>
 <addon id="plugin.video.DS9"
        name="[COLOR red]DS9[/COLOR]"
-       version="1.0.0"
+       version="1.0.1"
        provider-name="Odo">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
