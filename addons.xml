@@ -32,7 +32,7 @@
     <platform>all</platform>
   </extension>
 </addon>
-<addon id="plugin.video.revolution" name="[COLORred]Revolution[/COLOR]" provider-name="Bill Oddie" version="1.1.7">
+<addon id="plugin.video.revolution" name="[COLORred]Revolution[/COLOR]" provider-name="Captain Jerk" version="2.0.6">
     <requires>
         <!--<import addon="xbmc.python" version="2.20.0" />-->
         <import addon="script.revolution.artwork" />
@@ -44,7 +44,8 @@
         <import addon="script.module.six" />
         <import addon="script.module.simplejson" />
         <import addon="script.module.metahandler" optional="true" />
-        <import addon="script.module.openscrapers" />
+        <import addon="script.module.openscrapers" optional="true" />
+        <import addon="script.module.orion" optional="true" />
         <import addon="plugin.video.youtube" optional="true" />
     </requires>
     <extension library="revolution.py" point="xbmc.python.pluginsource">
@@ -54,7 +55,7 @@
     <extension point="xbmc.addon.metadata">
         <reuselanguageinvoker>false</reuselanguageinvoker>
         <summary lang="en_GB">Revolution</summary>
-        <description lang="en_GB">A Built In Scraper Pack And Openscrapers Supported...The author does not host any of the content in this add-on and takes no responsibility for content found.</description>
+        <description lang="en_GB">Working On Matrix</description>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
         <forum />
